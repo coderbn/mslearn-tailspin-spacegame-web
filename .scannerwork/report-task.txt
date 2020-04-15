@@ -1,0 +1,7 @@
+organization=msft-spacegame-coderbn
+projectKey=coderbn_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.6674
+dashboardUrl=https://sonarcloud.io/dashboard?id=coderbn_mslearn-tailspin-spacegame-web
+ceTaskId=AXFu90KuIbth1QGixDa6
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXFu90KuIbth1QGixDa6
